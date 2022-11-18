@@ -1,6 +1,6 @@
 {
   "name": "gitintro",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A repo to test and learn Git",
   "main": "index.js",
   "scripts": {
@@ -17,3 +17,4 @@
   },
   "homepage": "https://github.com/KonRichter/GitIntro#readme"
 }
+
