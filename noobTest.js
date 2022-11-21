@@ -2,4 +2,4 @@
 
 // such a bad comment
 
-let a = "hello";
+let a = "helloho!";
