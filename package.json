@@ -4,7 +4,9 @@
   "description": "A repo to test and learn Git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open"
+
   },
   "repository": {
     "type": "git",
@@ -15,6 +17,8 @@
   "bugs": {
     "url": "https://github.com/KonRichter/GitIntro/issues"
   },
-  "homepage": "https://github.com/KonRichter/GitIntro#readme"
+  "homepage": "https://github.com/KonRichter/GitIntro#readme",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
 }
-
