@@ -2,4 +2,4 @@
 
 // such a bad comment
 
-let a = 666;
+let a = 'holla die waldfee';
